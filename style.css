@@ -1,0 +1,74 @@
+.main{
+
+    background-color: lightgoldenrodyellow;
+    padding: 16px;
+    padding-left: 25px;
+    padding-right: 55px;
+    padding-bottom: 40px;
+}
+
+.title{
+background-color: whitesmoke;
+text-align: center;
+padding: 12px;
+font-size: 50px;
+}
+
+.one{
+
+background-color: whitesmoke;
+border: 1px solid black;
+text-align: left;
+padding: 16px;
+display: flex;
+align-items: center;
+font-size: large;
+margin-bottom: 16px;
+} 
+
+.box1text{
+
+display: inline-block;
+padding-left: 250px;
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.two {
+
+background-color :whitesmoke;
+border: 1px solid black;
+text-align:left;
+padding: 16px;
+display: flex;
+align-items: center;
+margin-bottom: 16px;
+}
+
+
+.box2text{
+
+display: inline-block;
+padding-left: 250px;
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.tres {
+
+background-color: whitesmoke;
+border: 1px solid black;
+text-align:left;
+display: flex;
+align-items: center;
+padding: 16px;
+margin-bottom: 16px;
+}
+
+.box3text{
+
+display: inline-block;
+padding-left: 250px;
+font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
